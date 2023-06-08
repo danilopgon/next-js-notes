@@ -1,5 +1,11 @@
 This app was made following the [Beyond Fireship - "Next.js 13 - The Basics"](https://www.youtube.com/watch?v=__mSgDEOyv8) tutorial for learning purposes
 
+You will need to use
+
+`.pocketbase serve`
+
+for the DB to work
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
