@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
-        <main className="min-h-full">
+        <main className="min-h-full w-full flex flex-col justify-center content-center">
           <nav>
             <Link href="/">Home</Link>
             <Link href="/notes">Notes</Link>
