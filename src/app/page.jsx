@@ -1,8 +1,7 @@
 const HomePage = () => {
   return (
-    <div>
-      <h1>Home Page</h1>
-      <p>Content</p>
+    <div className="flex flex-col m-4 justify-center items-center">
+      <h1 className="text-4xl">The worst homepage ever</h1>
     </div>
   );
 };
